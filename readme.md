@@ -22,5 +22,4 @@ Any operating system with docker installed, For kubernetes: any cloud based kube
 
 Contributors names and contact info
 
-Sumit Tyagi
-ex. [@tyagi.py](https://www.instagram.com/tyagi.py/)
+Sumit Tyagi [@tyagi.py](https://www.instagram.com/tyagi.py/)
