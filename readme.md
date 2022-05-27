@@ -1,6 +1,6 @@
 # Demystifying MLOPs and Kubernetes
 
-We had a discussion on MLOps yesterday, in the learning carnival. You can find the codebase used to the session here.
+We had a discussion on MLOps yesterday, in the learning carnival. You can find the codebase used to in session here.
 
 
 
